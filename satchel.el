@@ -3,7 +3,7 @@
 ;; Copyright (C) 2022  Free Software Foundation, Inc.
 
 ;; Author: Theodor Thornhill <theo@thornhill.no>
-;; Keywords: tools languages
+;; Keywords: tools git
 ;; Version: 0.2
 ;; Package-Requires: ((emacs "27.2") (project "0.8.1"))
 
